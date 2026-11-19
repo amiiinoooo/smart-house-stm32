@@ -1,6 +1,6 @@
 # 🏠 SmartHouse: Voice-Controlled Home Automation on STM32
 
-A smart home system where you **speak naturally** ("it's cold in here", "open the door") and the house reacts. A mobile app captures the voice command, an **AI workflow (n8n + local LLM via Ollama)** turns it into structured commands, and an **STM32F439** microcontroller drives the lights, heater, door, window and fan.
+A smart home system where you **speak naturally** ("it's cold in here", "open the door") and the house reacts. A mobile app captures the voice command, an **AI workflow (n8n + local LLM via Ollama)** turns it into structured commands, and an **STM32F439** microcontroller drives the door, window, light and fan.
 
 ECE355 (Embedded Systems) team project at MedTech – South Mediterranean University.
 
